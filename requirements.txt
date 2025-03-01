@@ -1,0 +1,8 @@
+chromadb>=0.4.22
+ollama>=0.1.6
+streamlit>=1.31.0
+pymupdf>=1.23.8
+langchain-community>=0.0.19
+sentence-transformers>=2.5.1
+langchain-core>=0.1.27
+python-dotenv>=1.0.0
